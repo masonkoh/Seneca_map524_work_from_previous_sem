@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Lab6</string>
+    <string name="text_id">ID</string>
+    <string name="text_name">Name</string>
+    <string name="text_grade">Grade</string>
+    <string name="button_addst">ADD NEW STUDENT</string>
+    <string name="button_viewst">VIEW ALL STUDENT</string>
+    <string name="button_findst">FIND STUDENT(USING ID)</string>
+    <string name="button_deletest">DELETE STUDENT(USING ID)</string>
+    <string name="my_name">PRATIK PANCHANI</string>
+</resources>

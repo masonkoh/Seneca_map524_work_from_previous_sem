@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Lab7</string>
+    <string name="my_name">PRATIK PANCHANI</string>
+    <string name="text_name">NAME</string>
+    <string name="text_dept">DEPT.</string>
+    <string name="text_year">YEAR</string>
+    <string name="button_add">ADD</string>
+    <string name="button_view">VIEW</string>
+</resources>

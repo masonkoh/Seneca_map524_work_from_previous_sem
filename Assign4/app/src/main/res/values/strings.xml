@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Assign4</string>
+    <string name="name">Name: Pratik Panchani</string>
+    <string name="btn1">ADD TEAM</string>
+    <string name="btn2">EXIT</string>
+    <string name="btn_del">DELETE</string>
+    <string name="btn_update">UPDATE</string>
+    <string name="exit">EXIT</string>
+    <string name="submit">SUBMIT</string>
+</resources>
